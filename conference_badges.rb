@@ -2,7 +2,7 @@ def badge_maker(name)
 return "Hello, my name is #{name}"
 end
 
-name = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
+name = [edsger, ada, charles, alan, grace, linus, matz]
 
 def batch_badge_creator
 greetings = [name]
