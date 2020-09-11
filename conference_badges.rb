@@ -1,9 +1,4 @@
-array = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
-
-def badge_maker(array)
-  array.each do [names]
-  puts "Hello, my name is #{names}."
-
- end
+def badge_maker(name)
+  puts "Hello, my name is #{name}."
 end
 
