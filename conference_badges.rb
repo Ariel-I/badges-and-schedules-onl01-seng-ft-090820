@@ -4,4 +4,6 @@ end
 
 def batch_badge_creator
 greetings = []
+name.each do [name]
+end
 end
