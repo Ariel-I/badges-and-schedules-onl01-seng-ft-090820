@@ -7,4 +7,5 @@ greetings = []
 name.each do |name|
   greeting << badge_maker(name)
 end
+return greeting
 end
